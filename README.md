@@ -1,7 +1,7 @@
 Project Title : 
-To-Do Application Development
+	To-Do Application Development
 Description :
-	Our first objective is to create a To-Do Application development. In this application , It will be help us to add the events , edit the events and delete the events .  It will store the events in the form of array with the help of local storage.  Once the event has been added, it will be stored in this array and when the event has been deleted, it would be removed from the array. This task includes the proficiency knowledge of  HTML , CSS , JavaScript and Local  storage concepts. The application uses local storage to store the to-do list items. This allows the data to persist even when the user reloads or revisits the page. We also displayed the current day and date near to the event bar.  
+	Our first objective is to create a To-Do Application development. In this application , It will be help us to add the events , edit the events and delete the events. It will store the events in the form of array with the help of local storage.  Once the event has been added, it will be stored in this array and when the event has been deleted, it would be removed from the array. This task includes the proficiency knowledge of  HTML , CSS , JavaScript and Local  storage concepts. The application uses local storage to store the to-do list items. This allows the data to persist even when the user reloads or revisits the page. We also displayed the current day and date near to the event bar.  
 
 Steps :
 Step 1 : Create an HTML web page named index.html  to create a layout and use some tags such as heading tags to create headings.
