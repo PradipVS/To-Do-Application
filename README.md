@@ -28,12 +28,14 @@ Several challenges may arise when developing a To-Do Application page. Here are 
  like Google Chrome, Microsoft Edge
 
 Installation :
-	Download the zip file and extract these files in a location.
-	Click on the HTML file and open with the browser like Google Chrome, Microsoft Edge
 
-Pre-requisites :
-	Basic knowledge of HTML , CSS , JavaScript and Local storage.
-	Browser such as Google Chrome, Microsoft Edge must be installed.
-	Code Editor like Sublime Text, Visual Studio Code must be installed.
- 
+1. Download the zip file and extract these files in a location.
+2. Click on the HTML file and open with the browser like Google Chrome, Microsoft Edge
+
+Pre-requisites : 
+
+1. Basic knowledge of  HTML , CSS , JavaScript and Local storage. 
+2. Browser such as Google Chrome, Microsoft Edge must be installed
+3. Code Editor like Sublime Text, Visual Studio Code must be installed.
+
 Note : To see the source code of the file, kindly open the file with the code editor such as Sublime Text, Visual Studio Code.
